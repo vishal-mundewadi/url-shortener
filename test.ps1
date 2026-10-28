@@ -1,0 +1,1 @@
+Invoke-RestMethod -Method Post -Uri http://127.0.0.1:8787/shorten -ContentType "application/json" -Body '{"url":"https://example.com"}'

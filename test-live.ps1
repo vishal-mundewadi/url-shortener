@@ -1,0 +1,1 @@
+Invoke-RestMethod -Method Post -Uri https://url-shortener.vishal-mundewadi.workers.dev/shorten -ContentType "application/json" -Body '{"url":"https://example.com"}'
